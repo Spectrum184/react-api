@@ -1,0 +1,34 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "iphone 7.1",
+      "price": 500,
+      "status": true
+    },
+    {
+      "id": 2,
+      "name": "iphone 10",
+      "price": 1500,
+      "status": false
+    },
+    {
+      "name": "Iphone 20",
+      "price": 2000,
+      "status": true,
+      "id": 3
+    },
+    {
+      "id": 5,
+      "name": "Iphone 5",
+      "price": "5",
+      "status": true
+    },
+    {
+      "id": 6,
+      "name": "iphone 6",
+      "price": "6",
+      "status": ""
+    }
+  ]
+}
